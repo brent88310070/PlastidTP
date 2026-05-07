@@ -3,9 +3,9 @@
 </p>
 
 ---------------------------------------
-# Deep-cTP-Decipher: Uncovering the Hidden Heterogeneity of Chloroplast Transit Peptides through In-depth Feature Mining
+# PlastidTP: Feature Mining of Plastid Transit Peptides by Explainable AI and Protein Language Models
 
-We presents a comprehensive, AI-driven framework to decode the complexity of Chloroplast Transit Peptides (cTPs). By leveraging Deap learning, Explainable AI (XAI) and clustering, the study overcomes the challenges of high sequence heterogeneity to identify distinct, lineage-specific targeting patterns. This framework is sequence-agnostic. It also can be adapted to analyze other signal peptides
+We presents a comprehensive, AI-driven framework to decode the complexity of plastid Transit Peptides (pTPs). By leveraging Deap learning, Explainable AI (XAI) and clustering, the study overcomes the challenges of high sequence heterogeneity to identify distinct, lineage-specific targeting patterns. This framework is sequence-agnostic. It also can be adapted to analyze other signal peptides
 
 ## Architecture
  <img src="fig/arch.png" style="align:center" />
