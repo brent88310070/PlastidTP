@@ -13,8 +13,8 @@ We presents a comprehensive, AI-driven framework to decode the complexity of pla
 
 ## Install
 ```sh
-git clone https://github.com/brent88310070/Deep-cTP-Decipher.git
-cd Deep-cTP-Decipher
+git clone https://github.com/brent88310070/PlastidTP.git
+cd PlastidTP
 ```
 
 ## Start
